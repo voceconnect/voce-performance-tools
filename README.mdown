@@ -10,7 +10,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 ## Description
-This plugin provides numerous performance tools and functionalities to assist in creating high performance WordPress themes
+This plugin provides numerous performance tools and functionalities to assist in developing high performance WordPress themes
 
 ## Installation
 > See [Installing Plugins](http://codex.wordpress.org/Managing_Plugins#Installing_Plugins).
