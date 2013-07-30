@@ -1,0 +1,22 @@
+Voce Performance Tools
+==================
+
+Contributors: klangley, voceplatforms  
+Tags: performance, cache, caching  
+Requires at least: 3.2  
+Tested up to: 3.5  
+Stable tag: 1.0  
+License: GPLv2 or later  
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+## Description
+This plugin provides numerous performance tools and functionalities to assist in creating high performance WordPress themes
+
+## Installation
+> See [Installing Plugins](http://codex.wordpress.org/Managing_Plugins#Installing_Plugins).
+
+## Includes
+* [WP TLC Transients](https://github.com/markjaquith/WP-TLC-Transients)
+* [Voce Widget Cache](https://github.com/voceconnect/voce-widget-cache)
+* [Voce Cached Nav](https://github.com/voceconnect/voce-cached-nav)
+* Voce Cached Queries
