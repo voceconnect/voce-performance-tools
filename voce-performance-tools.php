@@ -14,6 +14,7 @@
 if ( ! class_exists( 'TLC_Transient' ) )
 	require_once( dirname( __FILE__ ) . '/tlc-transients/tlc-transients.php' );
 
+require_once( dirname( __FILE__ ) . '/no-stampede-actions/no-stampede-actions.php' );
 require_once( dirname( __FILE__ ) . '/wp-cache-bucket/wp-cache-bucket.php' );
 require_once( dirname( __FILE__ ) . '/voce-widget-cache/voce-widget-cache.php' );
 require_once( dirname( __FILE__ ) . '/voce-cached-nav/voce-cached-nav.php' );
