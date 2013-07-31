@@ -13,10 +13,13 @@ This plugin provides numerous performance tools and functionalities to assist in
 
 This plugin provides numerous performance tools and functionalities to assist in developing high performance WordPress themes
 
-Includes
+= Includes =
+
 * [WP TLC Transients](https://github.com/markjaquith/WP-TLC-Transients)
+* [WP Cache Bucket](https://github.com/voceconnect/wp-cache-bucket)
 * [Voce Widget Cache](https://github.com/voceconnect/voce-widget-cache)
 * [Voce Cached Nav](https://github.com/voceconnect/voce-cached-nav)
+* [No Stampede Actions](https://github.com/voceconnect/no-stampede-actions)
 * Voce Cached Queries
 
 
