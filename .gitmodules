@@ -10,3 +10,6 @@
 [submodule "voce-widget-cache"]
 	path = voce-widget-cache
 	url = git@github.com:voceconnect/voce-widget-cache.git
+[submodule "no-stampede-actions"]
+	path = no-stampede-actions
+	url = git@github.com:voceconnect/no-stampede-actions.git
