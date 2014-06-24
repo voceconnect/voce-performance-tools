@@ -3,7 +3,7 @@
   Plugin Name: Voce Performance Tools
   Plugin URI: http://voceconnect.com
   Description: Provides numerous performance tools and functionalities to assist in developing high performance WordPress themes
-  Version: 1.1
+  Version: 1.1.1
   Author: Kevin Langley, Voce Platforms
   License: GPL2
 */
