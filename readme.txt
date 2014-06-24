@@ -33,6 +33,11 @@ This plugin provides numerous performance tools and functionalities to assist in
 == Screenshots ==
 
 == Changelog ==
+= 1.1.1 =
+* Adding Capistrano deploy scripts
+
+= 1.1 =
+* Updadting plugins
 
 = 1.0 =
 * Initial release.
