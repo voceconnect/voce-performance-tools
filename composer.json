@@ -1,0 +1,23 @@
+{
+    "name": "voceconnect/voce-performance-tools",
+    "description": "Provides numerous performance tools and functionalities to assist in developing high performance WordPress themes",
+    "keywords": ["wordpress", "performance"],
+    "license": "GPLv2+",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Kevin Langley Jr",
+            "email": "klangley@voceconnect.com"
+        }
+    ],
+    "autoload": {
+        "files": ["voce-performance-tools.php"]
+    },
+    "require": {
+        "markjaquith/wp-tlc-transients": "~1.0",
+        "voceconnect/no-stampede-actions": "~1.0",
+        "voceconnect/voce-cached-nav": "~1.1",
+        "voceconnect/wp-cache-bucket": "~1.1",
+        "voceconnect/voce-widget-cache": "~1.4"
+    }
+}
