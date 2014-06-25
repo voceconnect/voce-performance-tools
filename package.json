@@ -1,0 +1,15 @@
+{
+    "name": "voce-performance-tools",
+    "description": "Voce SEO Plugin",
+    "version": "1.2",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:voceconnect/voce-performance-tools.git"
+    },
+    "bugs": {
+        "url": "https://github.com/voceconnect/voce-performance-tools/issues"
+    },
+    "devDependencies": {
+      "grunt-voce-plugins": "latest"
+    }
+}
