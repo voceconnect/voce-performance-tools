@@ -8,8 +8,9 @@
   License: GPL2
 */
 
-if ( file_exists( __DIR__ . '/vendor/autoload.php' ) )
-	require_once __DIR__ . '/vendor/autoload.php';
+$autoload_path = implode(DIRECTORY_SEPARATOR, array(__DIR__, 'vendor', 'autoload.php'));
+if ( file_exists( $autoload_path ) )
+	require_once $autoload_path;
 
 /**
  * Helper functions to cache queries and update in background
