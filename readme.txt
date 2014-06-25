@@ -36,6 +36,8 @@ This plugin provides numerous performance tools and functionalities to assist in
 = 1.2 =
 * Adding composer support
 * Adding Capistrano deploy scripts
+* Adding Grunt build files
+* Updating child plugin versions
 
 = 1.1 =
 * Updadting plugins
