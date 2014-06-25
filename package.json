@@ -1,7 +1,7 @@
 {
     "name": "voce-performance-tools",
     "description": "Voce SEO Plugin",
-    "version": "1.2",
+    "version": "1.2.1",
     "repository": {
         "type": "git",
         "url": "git@github.com:voceconnect/voce-performance-tools.git"

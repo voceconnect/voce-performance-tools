@@ -3,7 +3,7 @@ Contributors: kevinlangleyjr, voceplatforms
 Tags: performance, cache, caching  
 Requires at least: 3.3  
 Tested up to: 3.8.1  
-Stable tag: 1.2  
+Stable tag: 1.2.1  
 License: GPLv2 or later  
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -33,10 +33,12 @@ This plugin provides numerous performance tools and functionalities to assist in
 == Screenshots ==
 
 == Changelog ==
+= 1.2.1 =
+* Adding Grunt build files
+
 = 1.2 =
 * Adding composer support
 * Adding Capistrano deploy scripts
-* Adding Grunt build files
 * Updating child plugin versions
 
 = 1.1 =
