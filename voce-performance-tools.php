@@ -7,11 +7,12 @@
   Author: Kevin Langley, Voce Platforms
   License: GPL2
 */
-/**
- * Helper functions to cache queries and update in background
- */
+
+if ( file_exists( __DIR__ . '/vendor/autoload.php' ) )
+	require_once __DIR__ . '/vendor/autoload.php';
 
 /**
+ * Helper functions to cache queries and update in background
  * Uses TLC-Transients to cache and update queries
  * @param array $query_args Query arguments
  * @param int $expires_in number of seconds to cache the query
