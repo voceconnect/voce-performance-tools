@@ -33,7 +33,7 @@ This plugin provides numerous performance tools and functionalities to assist in
 * Updating child plugin versions
 
 **1.1**  
-* Updadting plugins
+* Updating plugins
 
 **1.0**  
 * Initial release.
