@@ -1,9 +1,10 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
     ],
-    "hash": "c3275b3cea1f10956efdf62604557744",
+    "hash": "0c6f214734ae6df6a527c4815e6bf0e2",
     "packages": [
         {
             "name": "markjaquith/wp-tlc-transients",
@@ -90,16 +91,16 @@
         },
         {
             "name": "voceconnect/voce-cached-nav",
-            "version": "1.1.2",
+            "version": "1.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/voceconnect/voce-cached-nav.git",
-                "reference": "1a64122eeb5a0c5960358ac509404759375007a3"
+                "reference": "90787353af95530f3b2aed2e8095c2f86d54de60"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/voceconnect/voce-cached-nav/zipball/1a64122eeb5a0c5960358ac509404759375007a3",
-                "reference": "1a64122eeb5a0c5960358ac509404759375007a3",
+                "url": "https://api.github.com/repos/voceconnect/voce-cached-nav/zipball/90787353af95530f3b2aed2e8095c2f86d54de60",
+                "reference": "90787353af95530f3b2aed2e8095c2f86d54de60",
                 "shasum": ""
             },
             "type": "library",
@@ -119,20 +120,20 @@
                 }
             ],
             "description": "Serve cached copies of WordPress navigation menus by replacing your template calls to `wp_nav_menu` with `voce_cached_nav_menu`.",
-            "time": "2014-06-16 15:58:45"
+            "time": "2014-07-10 01:42:09"
         },
         {
             "name": "voceconnect/voce-widget-cache",
-            "version": "1.4",
+            "version": "1.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/voceconnect/voce-widget-cache.git",
-                "reference": "e1e4e9518547bef779b45e4b225fa1c9390b13a3"
+                "reference": "d58522ecdc8bb64f2730d649cd41c6afa71797bb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/voceconnect/voce-widget-cache/zipball/e1e4e9518547bef779b45e4b225fa1c9390b13a3",
-                "reference": "e1e4e9518547bef779b45e4b225fa1c9390b13a3",
+                "url": "https://api.github.com/repos/voceconnect/voce-widget-cache/zipball/d58522ecdc8bb64f2730d649cd41c6afa71797bb",
+                "reference": "d58522ecdc8bb64f2730d649cd41c6afa71797bb",
                 "shasum": ""
             },
             "type": "library",
@@ -161,20 +162,20 @@
                 "widget",
                 "wordpress"
             ],
-            "time": "2014-06-24 20:34:00"
+            "time": "2014-10-07 15:19:52"
         },
         {
             "name": "voceconnect/wp-cache-bucket",
-            "version": "1.1.2",
+            "version": "1.1.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/voceconnect/wp-cache-bucket.git",
-                "reference": "c6a9ed2f73be7466204a8b055e509c5c818ff73c"
+                "reference": "d6642990e5880f0fcb228a52eb40763fe2f19248"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/voceconnect/wp-cache-bucket/zipball/c6a9ed2f73be7466204a8b055e509c5c818ff73c",
-                "reference": "c6a9ed2f73be7466204a8b055e509c5c818ff73c",
+                "url": "https://api.github.com/repos/voceconnect/wp-cache-bucket/zipball/d6642990e5880f0fcb228a52eb40763fe2f19248",
+                "reference": "d6642990e5880f0fcb228a52eb40763fe2f19248",
                 "shasum": ""
             },
             "type": "library",
@@ -189,16 +190,16 @@
             ],
             "authors": [
                 {
-                    "name": "Michael Pretty",
-                    "email": "mpretty@voceconnect.com"
-                },
-                {
                     "name": "Kevin Langley Jr",
                     "email": "klangley@voceconnect.com"
                 },
                 {
                     "name": "Curtis Loisel",
                     "email": "curtis@voceconnect.com"
+                },
+                {
+                    "name": "Michael Pretty",
+                    "email": "mpretty@voceconnect.com"
                 }
             ],
             "description": "Allows cache items to be tied to a single validation key",
@@ -206,23 +207,14 @@
                 "cache",
                 "wordpress"
             ],
-            "time": "2014-06-24 18:16:28"
+            "time": "2014-12-18 20:46:09"
         }
     ],
-    "packages-dev": [
-
-    ],
-    "aliases": [
-
-    ],
+    "packages-dev": [],
+    "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": [
-
-    ],
-    "platform": [
-
-    ],
-    "platform-dev": [
-
-    ]
+    "stability-flags": [],
+    "prefer-stable": false,
+    "platform": [],
+    "platform-dev": []
 }

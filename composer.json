@@ -14,10 +14,10 @@
         "files": ["voce-performance-tools.php"]
     },
     "require": {
-        "markjaquith/wp-tlc-transients": "~1.0",
-        "voceconnect/no-stampede-actions": "~1.0",
-        "voceconnect/voce-cached-nav": "~1.1",
-        "voceconnect/wp-cache-bucket": "~1.1",
-        "voceconnect/voce-widget-cache": "~1.4"
+        "markjaquith/wp-tlc-transients": ">=1.0",
+        "voceconnect/no-stampede-actions": ">=1.0",
+        "voceconnect/voce-cached-nav": ">=1.1",
+        "voceconnect/wp-cache-bucket": ">=1.1",
+        "voceconnect/voce-widget-cache": ">=1.4"
     }
 }
